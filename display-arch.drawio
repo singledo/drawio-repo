@@ -230,16 +230,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-76" value="VirtualDisplayDriver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="TkytIQSSEw17lazBnE7J-77" target="TkytIQSSEw17lazBnE7J-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="TkytIQSSEw17lazBnE7J-77" target="TkytIQSSEw17lazBnE7J-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-77" value="DIS HAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="TkytIQSSEw17lazBnE7J-78" target="TkytIQSSEw17lazBnE7J-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-78" value="SurfaceFlinger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="135" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="150" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-79" value="windowsManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.57;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="TkytIQSSEw17lazBnE7J-76" target="TkytIQSSEw17lazBnE7J-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
