@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TkytIQSSEw17lazBnE7J-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="280" width="570" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="340" width="680" height="30" as="geometry" />
+          <mxGeometry x="60" y="320" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-2" value="SERIAL-96755" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="120" height="30" as="geometry" />
@@ -142,10 +145,19 @@
           <mxGeometry x="440" y="350" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="190" height="230" as="geometry" />
+          <mxGeometry x="60" y="110" width="190" height="230" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-51" value="QNX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-54" value="Android" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-55" value="QNX hypervisor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
