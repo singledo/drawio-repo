@@ -126,6 +126,21 @@
         <mxCell id="TkytIQSSEw17lazBnE7J-38" value="&lt;div&gt;MCU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="480" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-45" value="SA8155P" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-46" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-47" value="DSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="350" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-48" value="I2C Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkytIQSSEw17lazBnE7J-49" value="I2C Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
