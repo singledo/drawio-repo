@@ -144,11 +144,11 @@
         <mxCell id="TkytIQSSEw17lazBnE7J-49" value="I2C Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TkytIQSSEw17lazBnE7J-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TkytIQSSEw17lazBnE7J-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#660033;" vertex="1" parent="1">
           <mxGeometry x="-130" y="110" width="380" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="TkytIQSSEw17lazBnE7J-51" value="QNX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="TkytIQSSEw17lazBnE7J-51" value="QNX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#020303;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="310" height="240" as="geometry" />
