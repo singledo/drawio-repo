@@ -236,7 +236,7 @@
           <mxGeometry x="380" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-78" value="SurfaceFlinger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="135" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="135" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TkytIQSSEw17lazBnE7J-79" value="windowsManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="90" width="120" height="30" as="geometry" />
