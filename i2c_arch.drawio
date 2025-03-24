@@ -69,7 +69,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BdankX-E0VM9StCfPy3B-1" value="announce_device(udev);" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1460" width="170" height="30" as="geometry" />
+          <mxGeometry x="370" y="1460" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
