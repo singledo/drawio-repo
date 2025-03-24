@@ -71,6 +71,9 @@
         <mxCell id="BdankX-E0VM9StCfPy3B-1" value="announce_device(udev);" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="1460" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="BdankX-E0VM9StCfPy3B-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;int usb_new_device(struct usb_device *udev)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1190" width="710" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
