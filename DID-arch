@@ -120,13 +120,22 @@
           <mxGeometry x="-60" y="650" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="e5z8xpAlYuPo1QhBsnOG-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="180" width="180" height="260" as="geometry" />
+          <mxGeometry x="-560" y="180" width="180" height="260" as="geometry" />
         </mxCell>
         <mxCell id="e5z8xpAlYuPo1QhBsnOG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-510" y="210" width="160" height="270" as="geometry" />
         </mxCell>
         <mxCell id="e5z8xpAlYuPo1QhBsnOG-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-470" y="240" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="e5z8xpAlYuPo1QhBsnOG-5" value="android-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e5z8xpAlYuPo1QhBsnOG-6" value="android-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e5z8xpAlYuPo1QhBsnOG-7" value="qnx-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
