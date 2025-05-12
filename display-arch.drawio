@@ -624,6 +624,23 @@
         <mxCell id="dpnqcWq6h_MLqCgh9lra-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-300" y="740" width="10" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-295" y="790" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-39" value="enable_dp()" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="790" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-295" y="870" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-41" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="dpnqcWq6h_MLqCgh9lra-40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="850" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-260" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
