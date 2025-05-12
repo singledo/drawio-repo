@@ -604,11 +604,25 @@
         <mxCell id="dpnqcWq6h_MLqCgh9lra-28" value="Panel_DP_COMMON_QC_Init" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-680" y="650" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="dpnqcWq6h_MLqCgh9lra-29" target="dpnqcWq6h_MLqCgh9lra-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-36" value="pthread_create" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dpnqcWq6h_MLqCgh9lra-35">
+          <mxGeometry x="0.0606" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dpnqcWq6h_MLqCgh9lra-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-450" y="710" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpnqcWq6h_MLqCgh9lra-31" value="configure_dp_serdes" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-510" y="690" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-33" value="dp_deser_hotplugB_routine" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="710" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-300" y="740" width="10" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
