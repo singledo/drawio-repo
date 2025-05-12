@@ -598,7 +598,7 @@
         <mxCell id="dpnqcWq6h_MLqCgh9lra-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-270" y="710" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpnqcWq6h_MLqCgh9lra-24" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="dpnqcWq6h_MLqCgh9lra-23" parent="1">
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-24" value="Panel_DP_COMMON_QC_Init" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="dpnqcWq6h_MLqCgh9lra-23" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-340" y="715" as="sourcePoint" />
           </mxGeometry>
