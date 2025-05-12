@@ -595,6 +595,9 @@
             <mxPoint x="190" y="345" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dpnqcWq6h_MLqCgh9lra-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="dpnqcWq6h_MLqCgh9lra-27" target="dpnqcWq6h_MLqCgh9lra-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dpnqcWq6h_MLqCgh9lra-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-590" y="670" width="10" height="80" as="geometry" />
         </mxCell>
