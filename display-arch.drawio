@@ -697,8 +697,16 @@
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--17" value="enterSTRflag exit ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="945" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql8KOoJFE8cEQXd0rnp--20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.66666666666697" y="1150.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--20" value="enable_dp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1050" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--24" value="init_deserializer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
