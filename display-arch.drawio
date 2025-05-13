@@ -639,6 +639,9 @@
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-290" y="820" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--5" value="init_serdes_phase2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="830" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
