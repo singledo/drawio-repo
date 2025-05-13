@@ -642,6 +642,9 @@
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--5" value="init_serdes_phase2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-280" y="830" width="140" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--7" value="lock = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
