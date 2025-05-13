@@ -622,7 +622,7 @@
           <mxGeometry x="-360" y="710" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dpnqcWq6h_MLqCgh9lra-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-300" y="740" width="10" height="200" as="geometry" />
+          <mxGeometry x="-300" y="740" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dpnqcWq6h_MLqCgh9lra-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="-440" y="740" width="10" height="40" as="geometry" />
