@@ -642,11 +642,17 @@
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--5" value="init_serdes_phase2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-280" y="830" width="140" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql8KOoJFE8cEQXd0rnp--7" target="Ql8KOoJFE8cEQXd0rnp--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--7" value="lock = 1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--8" value="need reset?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="800" width="80" height="80" as="geometry" />
+          <mxGeometry x="295" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--10" value="STR Mode?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="950" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
