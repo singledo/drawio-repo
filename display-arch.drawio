@@ -708,6 +708,9 @@
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--24" value="init_deserializer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="700" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--25" value="init_serdes_phase2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
