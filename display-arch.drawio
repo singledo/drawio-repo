@@ -661,6 +661,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql8KOoJFE8cEQXd0rnp--8" target="Ql8KOoJFE8cEQXd0rnp--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--28" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ql8KOoJFE8cEQXd0rnp--27">
+          <mxGeometry x="0.0154" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--8" value="need reset?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="810" width="80" height="80" as="geometry" />
         </mxCell>
@@ -710,6 +718,12 @@
         </mxCell>
         <mxCell id="Ql8KOoJFE8cEQXd0rnp--25" value="init_serdes_phase2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--26" value="&amp;nbsp;smart_STRMODE_PowerDown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="835" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql8KOoJFE8cEQXd0rnp--29" value="power up&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="900" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
